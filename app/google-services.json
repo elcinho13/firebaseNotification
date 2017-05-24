@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "815663043559",
+    "firebase_url": "https://organize4notification.firebaseio.com",
+    "project_id": "organize4notification",
+    "storage_bucket": "organize4notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815663043559:android:2739a2fb9518153b",
+        "android_client_info": {
+          "package_name": "com.example.elcio.organizenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815663043559-55dsg929mbc320v8r6hhjfu6st6q6jo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuQDqA5F0QmVG8CCHhYxvFuhIf0a0DNos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
